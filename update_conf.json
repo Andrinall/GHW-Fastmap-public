@@ -1,9 +1,9 @@
 {
 	"filename": "ghw_map_mimgui.luac",
-	"last_ver": "1.4.11",
-	"last_ver_n": 4,
+	"last_ver": "1.4.14",
+	"last_ver_n": 0,
 	"update_datetime": "29.12.22 12:00",
 	"update_log": "• Карта изменена на цветную(включая все фиксы карты)\n• Добавлена проверка версии карты при загрузке скрипта\n• Мелкие правки для будующих обновлений\n• Изменена прозрачность картинки карты\n• Исправлена ошибка с неверной загрузкой таблиц из конфига,\n\tотсутствующих в таблице по умолчанию.\n• Исправлено неверное вычисление размера окна\n\tс информацией об обновлении",
-	"download_link": "https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1IwlUCgdHKbgdidGdtkph75VT0SJHRmkn",
+	"download_link": "https://github.com/Andrinall/GHW-Fastmap-public/raw/main/ghw_map_mimgui.luac",
         "map_version": 2.0
 } 
